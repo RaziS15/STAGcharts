@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36109.1 d17.14
+VisualStudioVersion = 17.14.36109.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRhinoPlugin1", "MyRhinoPlugin1.csproj", "{CEBE204B-6899-4D76-9280-44C97CBAEAD5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STAGCharts", "STAGCharts.csproj", "{CEBE204B-6899-4D76-9280-44C97CBAEAD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

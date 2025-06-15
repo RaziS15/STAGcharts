@@ -10,11 +10,11 @@ using System.IO;
 
 namespace MyRhinoPlugin1.MyRhinoPlugin1
 {
-    public class MyRhinoCommand1 : Command
+    public class STAGCharts : Command
     {
 
 
-        public override string EnglishName => "MyRhinoCommand1";
+        public override string EnglishName => "StagCharts";
 
         protected override Result RunCommand(RhinoDoc doc, RunMode mode)
         {
