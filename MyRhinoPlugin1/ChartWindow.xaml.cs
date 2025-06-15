@@ -6,7 +6,7 @@ using OxyPlot;
 using OxyPlot.Series;
 using OxyPlot.Axes;
 
-namespace MyRhinoPlugin1.MyRhinoPlugin1
+namespace STAGCharts.MyRhinoPlugin1
 {
     public partial class ChartWindow : Window
     {

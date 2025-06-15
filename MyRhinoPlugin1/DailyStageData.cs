@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MyRhinoPlugin1.MyRhinoPlugin1
+namespace STAGCharts.MyRhinoPlugin1
 {
     public class DailyStageData
     {

@@ -3,9 +3,9 @@ using Rhino.PlugIns;
 using Rhino.UI;
 using System;
 using System.Collections.Generic;
-using MyRhinoPlugin1.MyRhinoPlugin1;
+using STAGCharts.MyRhinoPlugin1;
 
-namespace MyRhinoPlugin1.MyRhinoPlugin1
+namespace STAGCharts.MyRhinoPlugin1
 {
     ///<summary>
     /// <para>Every RhinoCommon .rhp assembly must have one and only one PlugIn-derived

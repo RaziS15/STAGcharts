@@ -8,7 +8,7 @@ using Rhino.Input.Custom;
 using Newtonsoft.Json;
 using System.IO;
 
-namespace MyRhinoPlugin1.MyRhinoPlugin1
+namespace STAGCharts.MyRhinoPlugin1
 {
     public class STAGCharts : Command
     {
